@@ -1,4 +1,4 @@
-## Madhav E-Commerce Sales Analysis
+## Madhav E-Commerce Sales Analysis Project
 
 An end-to-end e-commerce data analysis project covering data cleaning, transformation, and interactive dashboard creation to analyze sales, profit, and customer ordering behavior for an online retail business.
 

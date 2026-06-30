@@ -1,4 +1,4 @@
-## Daikibo Telemetry Machine Data Analysis
+## Daikibo Telemetry Machine Data Analysis Project
 
 An end-to-end IoT telemetry analysis project that transforms raw JSON sensor data from Daikibo Manufacturing's global factories into an interactive Tableau dashboard for monitoring machine health and equipment performance.
 

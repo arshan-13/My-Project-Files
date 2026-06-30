@@ -1,4 +1,4 @@
- Asmon Electronics – Monthly Sales Growth Analysis Project
+ ##Asmon Electronics – Monthly Sales Growth Analysis Project
 
 An end-to-end data analysis project covering data cleaning, transformation, database storage, and interactive visualization for Asmon Electronics' sales data. The project demonstrates a complete data pipeline using **Python, MySQL, and Power BI**.
 
